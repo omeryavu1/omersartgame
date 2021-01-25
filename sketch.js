@@ -71,7 +71,7 @@ function draw() {
     background("lightblue")
     fill("blue");
     textSize(17);
-    text("When the game starts: pass all the players,",10,100);
+    text("When the game starts: pass all the players by moving the ball with your mouse,",10,100);
     text("But don't touch the players or go outside the field,",10,150);
     text("Press your mouse on the press sign and score a goal",10,200);
     textSize(25);
